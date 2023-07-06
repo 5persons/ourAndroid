@@ -64,12 +64,5 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-//    //连接数据库
-//    @Override
-//    protected void onCreate(Bundle savedInstanceState) {
-//        super.onCreate(savedInstanceState);
-//        setContentView(R.layout.activity_main);
-//        Connection.mymysql();
-
 }
 
